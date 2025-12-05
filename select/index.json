@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "目覚めの唄（『無職転生 〜異世界行ったら本気だす〜』より）",
+  "base_artist": "大原ゆい子",
+  "createdAt": "2025-12-05T14:49:37.042638Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "目覚めの唄",
+      "artist": "大原ゆい子",
+      "has_synced": false,
+      "path": "select/pl_01_目覚めの唄_大原ゆい子.txt"
+    }
+  ]
+}
